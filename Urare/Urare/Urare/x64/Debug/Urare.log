@@ -1,0 +1,7 @@
+﻿  Urare.cpp
+C:\Users\mugur\OneDrive\Documents\GitHub\CPP-Practice\Urare\Urare\Urare.cpp(15,9): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\mugur\OneDrive\Documents\GitHub\CPP-Practice\Urare\Urare\Urare.cpp(16,9): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\mugur\OneDrive\Documents\GitHub\CPP-Practice\Urare\Urare\Urare.cpp(17,9): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\mugur\OneDrive\Documents\GitHub\CPP-Practice\Urare\Urare\Urare.cpp(17,9): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\mugur\OneDrive\Documents\GitHub\CPP-Practice\Urare\Urare\Urare.cpp(17,9): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+  Urare.vcxproj -> C:\Users\mugur\OneDrive\Documents\GitHub\CPP-Practice\Urare\Urare\x64\Debug\Urare.exe
