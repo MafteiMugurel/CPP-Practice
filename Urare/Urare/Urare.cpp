@@ -10,13 +10,13 @@
 #include <string>
 
 int main() {
-    // Mesajul de urare
+    
     std::string urare =
         "Sărbători fericite!\n"
         "Fie ca spiritul Crăciunului să vă umple inimile de bucurie,\n"
         "lumină și speranță. Crăciun Fericit alături de cei dragi!\n";
 
-    // Afișăm urarea
+    
     std::cout << "***********************************" << std::endl;
     std::cout << "*                                 *" << std::endl;
     std::cout << "*      " << urare << "      *" << std::endl;
